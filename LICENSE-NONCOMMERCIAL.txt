@@ -1,0 +1,31 @@
+PRAXIS RESEARCH & ACADEMIC LICENSE (Non-Commercial)
+
+Version 1.0 – 2025
+
+Copyright (c) 2025 Samuel Lawson
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any individual or organization to use, copy, modify, and distribute this software and associated documentation files (the “Software”) solely for:
+
+• Academic research
+• Personal research
+• Educational use
+• Non-profit institutional research
+• Internal testing and evaluation
+
+THE SOFTWARE MAY NOT BE USED FOR ANY COMMERCIAL PURPOSE.
+
+Commercial use includes, but is not limited to:
+• Use by for-profit companies
+• Use in paid consulting
+• Use in commercial products or SaaS platforms
+• Internal business operations
+• Government operational deployment
+• Utility, energy, infrastructure, defense, or industrial applications
+
+Any commercial use requires a separate paid Commercial License from the copyright holder.
+
+The Software is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claim, damages, or other liability arising from the use of the Software.
+
+For commercial licensing inquiries, contact:
+darksciencedivision@gmail.com
