@@ -1,0 +1,31 @@
+PRAXIS COMMERCIAL LICENSE AGREEMENT
+
+Copyright (c) 2025 Samuel Lawson
+All rights reserved.
+
+This Commercial License authorizes the Licensee to use the PRAXIS software and associated documentation (the “Software”) for commercial, government, industrial, or enterprise use, subject to the terms of a separate signed agreement and payment of applicable license fees.
+
+PERMITTED USE UNDER COMMERCIAL LICENSE:
+• Internal business operations
+• Commercial product integration
+• SaaS deployment
+• Utility and infrastructure modeling
+• Defense and government applications
+• Large-scale simulation and risk analysis
+• Consulting, resale, or embedded deployment
+
+RESTRICTIONS:
+• The Software may not be publicly redistributed without written permission.
+• The Software may not be sublicensed without authorization.
+• Reverse engineering for competitive replacement is prohibited.
+• The original copyright notice must be preserved.
+• Ownership of all original source code remains solely with Samuel Lawson.
+
+WARRANTY DISCLAIMER:
+The Software is provided “AS IS” without warranty of any kind. The Licensor shall not be liable for any damages arising from the use of the Software.
+
+LICENSING & FEES:
+Commercial use requires a paid license issued directly by the Licensor. Fees, deployment scope, and duration shall be defined in a separate written agreement.
+
+CONTACT FOR LICENSING:
+darksciencedivision@gmail.com
