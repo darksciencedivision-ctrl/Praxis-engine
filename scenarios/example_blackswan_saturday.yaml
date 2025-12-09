@@ -1,0 +1,28 @@
+name: "Black Swan Saturday – Demo Scenario"
+version: 0.1
+
+description: >
+  Synthetic demonstration scenario for the PRAXIS engine.
+  This file is for academic and research exploration only and
+  does not include real-world configuration data.
+
+domains:
+  - name: "Power"
+    region: "Synthetic-ISO"
+    stressors:
+      - id: PWR_XFM_OVERLOAD
+        description: "Transformer fleet thermal overload under heat dome"
+        base_probability: 0.45
+        severity: 5
+
+  - name: "Gas"
+    region: "Synthetic-ISO"
+    stressors:
+      - id: GAS_COMPRESSION_LOSS
+        description: "Loss of major gas compression capacity"
+        base_probability: 0.40
+        severity: 5
+
+notes:
+  - "All values here are placeholders for documentation and testing."
+  - "Real parameter sets are distributed only under commercial license."
