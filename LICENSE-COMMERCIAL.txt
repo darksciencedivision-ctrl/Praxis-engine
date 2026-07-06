@@ -1,6 +1,6 @@
 PRAXIS COMMERCIAL LICENSE AGREEMENT
 
-Copyright (c) 2025 Samuel Lawson
+Copyright (c) 2025 Sam Flynn
 All rights reserved.
 
 This Commercial License authorizes the Licensee to use the PRAXIS software and associated documentation (the “Software”) for commercial, government, industrial, or enterprise use, subject to the terms of a separate signed agreement and payment of applicable license fees.
@@ -19,7 +19,7 @@ RESTRICTIONS:
 • The Software may not be sublicensed without authorization.
 • Reverse engineering for competitive replacement is prohibited.
 • The original copyright notice must be preserved.
-• Ownership of all original source code remains solely with Samuel Lawson.
+• Ownership of all original source code remains solely with Sam Flynn.
 
 WARRANTY DISCLAIMER:
 The Software is provided “AS IS” without warranty of any kind. The Licensor shall not be liable for any damages arising from the use of the Software.

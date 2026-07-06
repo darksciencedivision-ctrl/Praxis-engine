@@ -1,0 +1,26 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Compile all Python
+        run: python -m compileall -q .
+      - name: Validate YAML + JSON
+        run: |
+          pip -q install pyyaml
+          python - <<'PY'
+          import glob, json, sys, yaml
+          bad = []
+          for f in glob.glob('**/*.json', recursive=True):
+              try: json.load(open(f, encoding='utf-8-sig'))
+              except Exception as e: bad.append(f'{f}: {e}')
+          for f in glob.glob('**/*.yaml', recursive=True) + glob.glob('**/*.yml', recursive=True):
+              try: yaml.safe_load(open(f, encoding='utf-8-sig'))
+              except Exception as e: bad.append(f'{f}: {e}')
+          print('\n'.join(bad) if bad else 'all valid')
+          sys.exit(1 if bad else 0)
+          PY
