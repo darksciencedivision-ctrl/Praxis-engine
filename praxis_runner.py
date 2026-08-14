@@ -13,7 +13,6 @@ import sys
 
 def main():
     try:
-        # This is the paid/private package you will distribute to customers.
         from praxis_core import run_engine  # pragma: no cover
     except ImportError:
         print("")

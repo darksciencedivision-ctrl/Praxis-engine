@@ -2,7 +2,7 @@ PRAXIS RESEARCH & ACADEMIC LICENSE (Non-Commercial)
 
 Version 1.0 – 2025
 
-Copyright (c) 2025 Sam Flynn
+Copyright (c) 2025 Samuel Lawson
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any individual or organization to use, copy, modify, and distribute this software and associated documentation files (the “Software”) solely for:
